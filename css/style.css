@@ -13,3 +13,76 @@ světle šedá: #f0f0f0
 */
 
 /* --- pod tuto čáru piš svoje CSS --- */
+body {
+    font-size: 15px;
+}
+
+h1,
+h3 {
+    color: #c5308a;
+}
+
+h1,
+h2,
+h3,
+.nahore {
+    font-family: "Briem Hand", cursive;
+}
+
+h1 {
+    font-size: 34px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+.navbar a {
+    color: white;
+}
+
+.akce {
+    background-color: #c5308a;
+    color: white;
+}
+
+.akce h1,
+.akce p {
+    margin: 0;
+}
+
+.kadernice,
+.kontakt,
+.onas {
+    background-color: #f0f0f0;
+}
+
+.onas em {
+    color: grey;
+}
+
+.kadernice img {
+    border: grey dotted 2px;
+}
+
+.kontakt a,
+.paticka a {
+    text-decoration: none;
+    color: #c5308a;
+}
+
+.paticka {
+
+}
+
+.paticka li {
+    list-style: none;
+}
+
+.small {
+    font-size: 10px;
+}
